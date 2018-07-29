@@ -9,9 +9,9 @@
         "email": "developers@firebrand.nz"
     }],
     "require": {
-        "silverstripe/framework": "^3.1",
-        "silverstripe/cms": "^3.1",
-        "firebrandhq/searchable-dataobjects": "1.2",
+		"silverstripe/cms": "3.6.*",
+		"silverstripe/framework": "3.6.*",
+        "firebrandhq/searchable-dataobjects": "1.2.3",
         "silverstripe-australia/gridfieldextensions": "1.*",
     	"undefinedoffset/sortablegridfield": "1.*",
     	"colymba/gridfield-bulk-editing-tools": "2.1.9",
